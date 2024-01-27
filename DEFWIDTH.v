@@ -1,0 +1,11 @@
+`define IF_TO_ID_BUS_WD 64
+`define ID_TO_EXE_BUS_WD 116
+`define EXE_TO_MEM_BUS_WD 72
+`define MEM_TO_WB_BUS_WD 71
+
+`define ID_TO_IF_BRBUS_WD 33
+`define WB_TO_ID_RFBUS_WD 38
+
+`define EXE_TO_ID_BYPASS_WD 32
+`define MEM_TO_ID_BYPASS_WD 32
+`define WB_TO_ID_BYPASS_WD 32
